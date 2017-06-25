@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>000065.jpg</filename>
+  <path>/home/stupid/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/000065.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mouse</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>144</xmin>
+      <ymin>69</ymin>
+      <xmax>225</xmax>
+      <ymax>225</ymax>
+    </bndbox>
+  </object>
+</annotation>
